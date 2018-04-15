@@ -1,0 +1,9 @@
+C:\Users\mandr\Desktop\6\bin\Release\Лаба№6 _rez.exe
+C:\Users\mandr\Desktop\6\bin\Release\Лаба№6 _rez.pdb
+C:\Users\mandr\Desktop\6\obj\Release\Potoki.csprojResolveAssemblyReference.cache
+C:\Users\mandr\Desktop\6\obj\Release\Лаба_6__rez.Form1.resources
+C:\Users\mandr\Desktop\6\obj\Release\Лаба_6__rez.Form2.resources
+C:\Users\mandr\Desktop\6\obj\Release\Лаба_6__rez.Properties.Resources.resources
+C:\Users\mandr\Desktop\6\obj\Release\Potoki.csproj.GenerateResource.Cache
+C:\Users\mandr\Desktop\6\obj\Release\Лаба№6 _rez.exe
+C:\Users\mandr\Desktop\6\obj\Release\Лаба№6 _rez.pdb
